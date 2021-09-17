@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wylli
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning Unity and Unreal
+- 💞️ I’m looking to collaborate on game developing
+- 📫 How to reach me guillermoqnk@gmail.com
