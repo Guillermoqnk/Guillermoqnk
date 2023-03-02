@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Wylli
-- 👀 I’m interested in videogames
-- 🌱 I’m currently learning Unity and Unreal
-- 💞️ I’m looking to collaborate on game developemnt
-- 📫 How to reach me guillermoqnk@gmail.com
+// Hi, I’m Guillermo, Wylli for friends.
+
+In my free time I like to play videogames, play roleplay games and develop technology.
+
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
